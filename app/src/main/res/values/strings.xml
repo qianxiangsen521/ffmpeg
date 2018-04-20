@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FFmpeg</string>
+    <string name="permission_read_phone_hint">没有此权限，会影响APP正常使用，请开启权限。
+        请打开手机/电话/存储权限</string>
+    <string name="permission_required">必要权限，请允许</string>
+</resources>
